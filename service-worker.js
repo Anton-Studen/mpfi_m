@@ -2,7 +2,7 @@ const CACHE_NAME = 'mpfi-v1';
 
 const urlsToCache = [
   './',
-  './mpfi.html',
+  './index.html',
   './manifest.json'
 ];
 
